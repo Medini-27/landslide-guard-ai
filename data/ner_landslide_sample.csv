@@ -1,0 +1,25 @@
+location,state,observed_on,rainfall_mm,soil_moisture_pct,slope_deg,elevation_m,previous_landslide,risk_level
+Aizawl,Mizoram,2025-06-14,192,91,39,1132,yes,HIGH
+Aizawl,Mizoram,2025-03-02,18,41,39,1132,yes,MEDIUM
+Gangtok,Sikkim,2025-07-05,148,86,34,1650,yes,HIGH
+Gangtok,Sikkim,2025-11-19,9,34,34,1650,yes,MEDIUM
+Shillong,Meghalaya,2025-06-28,88,74,22,1496,no,MEDIUM
+Shillong,Meghalaya,2025-01-11,4,28,22,1496,no,LOW
+Kohima,Nagaland,2025-08-02,121,83,31,1444,yes,HIGH
+Kohima,Nagaland,2025-04-16,33,52,31,1444,yes,MEDIUM
+Itanagar,Arunachal Pradesh,2025-07-21,97,78,19,320,no,MEDIUM
+Itanagar,Arunachal Pradesh,2025-02-08,6,31,19,320,no,LOW
+Tawang,Arunachal Pradesh,2025-06-09,133,84,41,3048,yes,HIGH
+Sohra (Cherrapunji),Meghalaya,2025-06-17,268,95,35,1430,yes,HIGH
+Sohra (Cherrapunji),Meghalaya,2025-12-03,3,33,35,1430,yes,MEDIUM
+Lunglei,Mizoram,2025-07-12,104,80,29,1013,no,HIGH
+Lunglei,Mizoram,2025-10-22,21,44,29,1013,no,LOW
+Imphal,Manipur,2025-08-14,62,66,11,786,no,MEDIUM
+Imphal,Manipur,2025-01-27,2,25,11,786,no,LOW
+Guwahati,Assam,2025-06-05,118,82,16,55,yes,HIGH
+Guwahati,Assam,2025-03-19,14,40,16,55,yes,MEDIUM
+Agartala,Tripura,2025-07-30,71,69,5,22,no,LOW
+Agartala,Tripura,2025-02-14,3,27,5,22,no,LOW
+Dimapur,Nagaland,2025-08-25,58,63,8,145,no,LOW
+Dimapur,Nagaland,2025-05-04,26,47,8,145,no,LOW
+Gangtok,Sikkim,2025-09-11,79,71,34,1650,yes,HIGH
