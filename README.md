@@ -1,3 +1,6 @@
+DEMO LINK
+https://landslide-guard-ai-goy6-rf2izsvrx-sih-37b0.vercel.app/
+
 # ⛰ Landslide Guard AI
 
 **AI-Based Early Warning and Landslide Risk Monitoring System for the North-Eastern Region (NER) of India**
